@@ -1,4 +1,11 @@
-<h1 style="text-align: center">Hi there, I'm <a href="www.alex8obrien.com">Alex O'Brien</a>👋</h1>
+<h1 style="text-align: center">Hi there, I'm Alex O'Brien</h1>
+
+<p style = "text-align: center">
+    <a href="https://www.alex8obrien.com/assets/CV.pdf"><img src="https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=google-docs&logoColor=white" alt="CV"></a>
+    <a href="mailto:alex8obrien@gmail.com"><img src="https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white" alt="E-Mail"></a>
+    <a href="https://www.linkedin.com/in/alex8obrien/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+    <a href="https://www.twitter.com/alex8obrien/"><img src="https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"></a>
+</p>
 
 ## About Me
 
