@@ -1,4 +1,4 @@
-<h1 style="text-align: center">Hi there, I'm <a href="www.alex8obrien.com">Alex O'Brien 👋</a></h1>
+<h1 style="text-align: center">Hi there, I'm <a href="www.alex8obrien.com">Alex O'Brien</a>👋</h1>
 
 ## About Me
 
