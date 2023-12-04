@@ -1,6 +1,6 @@
 # Hi there, I'm Alex O'Brien
 
-[![CV Badge](https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=google-docs&logoColor=white)](https://www.alex8obrien.com/assets/CV.pdf)
+[![CV Badge](https://img.shields.io/badge/CV-blue?style=for-the-badge&logo=google-docs&logoColor=white)](https://assets.alex8obrien.com/CV.pdf)
 [![Email Badge](https://img.shields.io/badge/Email-grey?style=for-the-badge&logo=gmail&logoColor=white)](mailto:alex8obrien@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alex8obrien/)
 [![Twitter Badge](https://img.shields.io/badge/twitter-grey?style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/alex8obrien/)
